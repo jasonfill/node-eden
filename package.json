@@ -1,6 +1,6 @@
 {
   "name": "node-eden",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "David Humphrey <david.humphrey@senecacollege.ca>",
   "keywords": [
     "name",
@@ -9,7 +9,7 @@
     "female"
   ],
   "main": "./lib/index.js",
-  "description": "A node.js name generator",
+  "description": "A node.js name, color, animal, word generator",
   "repository": {
     "type": "git",
     "url": "https://github.com/humphd/node-eden.git"
